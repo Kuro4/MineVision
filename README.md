@@ -8,5 +8,5 @@ Minecraftの設計ツール
 
 ## 参考
 ### 画面描画
-https://teratail.com/questions/83402
-https://github.com/reneschulte/WriteableBitmapEx
+* https://teratail.com/questions/83402
+* https://github.com/reneschulte/WriteableBitmapEx
